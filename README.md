@@ -20,9 +20,11 @@ Blog: https://zebracatzebra.com
 
 Linkedin: https://www.linkedin.com/in/jeffluszcz
 
-- 🔭 I’m currently working on ...
+
+🔭 I’m currently working on ...
   
   https://github.com/jeff-luszcz/RingFontDisplay A font(Dendro) and library to show text on NeoPixel rings
+  
   https://github.com/jeff-luszcz/PurpleTheopolis A low attention display to show current Air Quallity
   
 
