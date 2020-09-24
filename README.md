@@ -21,6 +21,7 @@ Blog: https://zebracatzebra.com
 Linkedin: https://www.linkedin.com/in/jeffluszcz
 
 
+
 🔭 I’m currently working on ...
   
   https://github.com/jeff-luszcz/RingFontDisplay A font(Dendro) and library to show text on NeoPixel rings
