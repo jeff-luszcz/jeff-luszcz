@@ -16,7 +16,7 @@ I'm interested in open source licensing and security, arduino, amateur radio and
 
 Twitter:  https://www.twitter.com/jeffluszcz
 
-Blog: https://zebracatzebra.com
+Blog:     https://zebracatzebra.com
 
 Linkedin: https://www.linkedin.com/in/jeffluszcz
 
