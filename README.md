@@ -28,7 +28,13 @@ Linkedin: https://www.linkedin.com/in/jeffluszcz
   
   https://github.com/jeff-luszcz/PurpleTheopolis A low attention display to show current Air Quallity
   
+- ⚡ I'll be speaking at the following conferences...
 
+10/19/2020: All Things Open "Open Source Licensing: Types, Strategies and Compliance"
+https://2020.allthingsopen.org/sessions/open-source-licensing-types-strategies-and-compliance/ 
+
+November 2020: Open Core Summit Nov 2020 "Open Source Compliance Trends" 
+https://2020.opencoresummit.com/tickets/ 
 
 <!--
 **jeff-luszcz/jeff-luszcz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
