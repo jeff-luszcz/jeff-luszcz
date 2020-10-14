@@ -34,6 +34,7 @@ Linkedin: https://www.linkedin.com/in/jeffluszcz
 https://2020.allthingsopen.org/sessions/open-source-licensing-types-strategies-and-compliance/ 
 
 November 2020: Open Core Summit Nov 2020 "Open Source Compliance Trends" 
+
 https://2020.opencoresummit.com/tickets/ 
 
 <!--
