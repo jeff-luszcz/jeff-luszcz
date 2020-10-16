@@ -31,6 +31,7 @@ Linkedin: https://www.linkedin.com/in/jeffluszcz
 - ⚡ I'll be speaking at the following conferences...
 
 10/19/2020: All Things Open "Open Source Licensing: Types, Strategies and Compliance"
+
 https://2020.allthingsopen.org/sessions/open-source-licensing-types-strategies-and-compliance/ 
 
 November 2020: Open Core Summit Nov 2020 "Open Source Compliance Trends" 
