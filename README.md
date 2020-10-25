@@ -31,7 +31,7 @@ Linkedin: https://www.linkedin.com/in/jeffluszcz
 ## ⚡ I'll be speaking at the following conferences...
 
 
-November 2020: Open Core Summit Nov 2020 "Open Source Compliance Trends" 
+December 16-18, 2020: Open Core Summit Nov 2020 "Open Source Compliance Trends" 
 
 https://2020.opencoresummit.com/tickets/ 
 
