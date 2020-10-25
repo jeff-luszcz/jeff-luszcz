@@ -38,7 +38,7 @@ https://2020.opencoresummit.com/tickets/
 
 
 
-- Recent Conference Talks
+### Recent Conference Talks
 
 
 10/19/2020: All Things Open "Open Source Licensing: Types, Strategies and Compliance"
