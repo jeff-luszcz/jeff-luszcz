@@ -34,7 +34,8 @@ Linkedin: https://www.linkedin.com/in/jeffluszcz
 ## ⚡ I'll be speaking at the following conferences...
 
 
-TBD for 2021!
+March 30, 2021 Open Source 101 
+Details TBD
 
 
 ### Recent Conference Talks
