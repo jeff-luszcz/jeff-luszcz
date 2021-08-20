@@ -29,7 +29,7 @@ Linkedin: https://www.linkedin.com/in/jeffluszcz
   
   https://github.com/jeff-luszcz/RingFontDisplay A font(Dendro) and library to show text on NeoPixel rings
   
-  https://github.com/jeff-luszcz/PurpleTheopolis A low attention display to show current Air Quallity
+  https://github.com/jeff-luszcz/PurpleTheopolis A low attention ambient display to show current Air Quallity
   
 ## ⚡ I'll be speaking at the following conferences...
 
