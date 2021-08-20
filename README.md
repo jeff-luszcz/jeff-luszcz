@@ -34,18 +34,17 @@ Linkedin: https://www.linkedin.com/in/jeffluszcz
 ## ⚡ I'll be speaking at the following conferences...
 
 
+TBD
+
+
+### Recent Conference Talks
+
+
 March 30, 2021 Open Source 101 2:45pm ET - 4:30pm ET
 
 "Just Enough Open Source: A Kick start on security, license compliance and business models"
 
 Free Registration https://opensource101.com
-
-https://opensource101.com/sessions/just-enough-open-source-a-kick-start-on-security-license-compliance-and-business-models-extended-session/
-
-
-
-### Recent Conference Talks
-
 
 December 16-18, 2020: Open Core Summit Nov 2020 "Open Source Compliance Trends" 
 
