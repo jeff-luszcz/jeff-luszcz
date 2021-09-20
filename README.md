@@ -5,7 +5,7 @@
 I post thoughts on open source at https://zebracatzebra.com 
 
 
-I've available to speak on open source compliance and security topics.
+I'm available to speak on open source compliance and security topics.
 
 
 I'm interested in open source licensing and security, arduino, amateur radio and sdr 
