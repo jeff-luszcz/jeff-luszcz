@@ -8,7 +8,7 @@ I post thoughts on open source at https://zebracatzebra.com
 I'm available to speak on open source compliance and security topics.
 
 
-I'm interested in open source licensing and security, arduino, amateur radio and sdr 
+I spend my programming time mostly on open source licensing and security tools, arduino, art and amateur radio/sdr these days.
 
 
 
