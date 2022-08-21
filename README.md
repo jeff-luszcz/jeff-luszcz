@@ -34,7 +34,8 @@ Linkedin: https://www.linkedin.com/in/jeffluszcz
 ## ⚡ I'll be speaking at the following conferences...
 
 
-TBD
+I'm available to speak on open source compliance and security topics, drop me a line if interested!
+
 
 
 ### Recent Conference Talks
