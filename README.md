@@ -14,13 +14,14 @@ I spend my programming time mostly on open source licensing and security tools, 
 
 ## You can reach me through:
 
-Twitter:  https://www.twitter.com/jeffluszcz
 
 Blog:     https://zebracatzebra.com
 
 Linkedin: https://www.linkedin.com/in/jeffluszcz
 
 Mastodon: https://mastodon.social/@jeffluszcz
+
+Twitter:  https://www.twitter.com/jeffluszcz
 
 
 
