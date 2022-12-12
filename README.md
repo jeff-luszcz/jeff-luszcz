@@ -21,7 +21,6 @@ Linkedin: https://www.linkedin.com/in/jeffluszcz
 
 Mastodon: https://mastodon.social/@jeffluszcz
 
-Twitter:  https://www.twitter.com/jeffluszcz
 
 
 
