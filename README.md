@@ -34,6 +34,7 @@ Mastodon: https://mastodon.social/@jeffluszcz
   
   https://github.com/jeff-luszcz/PurpleTheopolis A low attention ambient display to show current Air Quallity
   
+  
 ## ⚡ I'll be speaking at the following conferences...
 
 
