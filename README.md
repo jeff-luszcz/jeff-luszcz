@@ -30,7 +30,7 @@ Mastodon: https://mastodon.social/@jeffluszcz
 
 🔭 I’m currently working on ...
   
-  https://github.com/jeff-luszcz/RingFontDisplay A font(Dendro) and library to show text on NeoPixel rings
+  https://github.com/jeff-luszcz/RingFontDisplay A special circle based font (Dendro) and library to show text on NeoPixel rings
   
   https://github.com/jeff-luszcz/PurpleTheopolis A low attention ambient display to show current Air Quallity
   
