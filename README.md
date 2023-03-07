@@ -49,7 +49,8 @@ I'm available to speak on open source compliance and security topics, drop me a 
 
 https://go.snyk.io/open-source-security-fintech.html
 
-
+ &nbsp;
+ &nbsp;
 
 March 30, 2021 Open Source 101 2:45pm ET - 4:30pm ET
 
@@ -57,11 +58,17 @@ March 30, 2021 Open Source 101 2:45pm ET - 4:30pm ET
 
 Free Registration https://opensource101.com
 
+ &nbsp;
+ &nbsp;
+
 December 16-18, 2020: Open Core Summit Nov 2020 "Open Source Compliance Trends" 
 
 https://2020.opencoresummit.com/tickets/ 
 
 
+ &nbsp;
+ &nbsp;
+ 
 10/19/2020: All Things Open "Open Source Licensing: Types, Strategies and Compliance"
 
 https://2020.allthingsopen.org/sessions/open-source-licensing-types-strategies-and-compliance/ 
