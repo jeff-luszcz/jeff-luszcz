@@ -50,6 +50,7 @@ I'm available to speak on open source compliance and security topics, drop me a 
 https://go.snyk.io/open-source-security-fintech.html
 
 
+
 March 30, 2021 Open Source 101 2:45pm ET - 4:30pm ET
 
 "Just Enough Open Source: A Kick start on security, license compliance and business models"
