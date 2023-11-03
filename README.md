@@ -34,6 +34,7 @@ Mastodon: https://mastodon.social/@jeffluszcz
   
   https://github.com/jeff-luszcz/PurpleTheopolis A low attention ambient display to show current Air Quallity
   
+  https://github.com/jeff-luszcz/AISTropoAlert   Utilityto send a Mastodon alert when far away ships are seen using AIS ship reports
   
 ## ⚡ I'll be speaking at the following conferences...
 
