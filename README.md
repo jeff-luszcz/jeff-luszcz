@@ -36,6 +36,8 @@ Mastodon: https://mastodon.social/@jeffluszcz
   
   https://github.com/jeff-luszcz/AISTropoAlert   Utility to send a Mastodon alert when far away ships are seen using AIS ship reports
   
+  https://github.com/jeff-luszcz/MagLoopTuner    A utility to greatly speed up manual tuning of Mag Loop antennas using hamlib and text to speach
+  
 ## ⚡ I'll be speaking at the following conferences...
 
 
