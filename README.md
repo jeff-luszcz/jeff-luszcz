@@ -21,6 +21,8 @@ Linkedin: https://www.linkedin.com/in/jeffluszcz
 
 Mastodon: https://mastodon.social/@jeffluszcz
 
+Bluesky: https://bsky.app/profile/jeffluszcz.bsky.social
+
 
 
 
